@@ -6,4 +6,5 @@ aryan
 ## deveelopment environemnt 
 make sure u have java script available 
 run index.html in browser
-
+ # feature update
+updated feature
